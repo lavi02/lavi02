@@ -15,6 +15,7 @@
   <br/>
   <img alt="vuejs" src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=Rust">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
+  <img alt="c++" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua">
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavi02&show_icons=true&theme=tokyonight)
