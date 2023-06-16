@@ -18,6 +18,8 @@
   <img alt="c++" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua">
 </p>
 
+![제목 없음](https://github.com/lavi02/lavi02/assets/55977356/5bf61e88-b36d-483d-9156-d933d820784c)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavi02&show_icons=true&theme=tokyonight)
 <p align="center">
   <a href="https://open.spotify.com/user/46p7smzj2rfj4k1069o16gvkb" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
