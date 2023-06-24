@@ -18,7 +18,8 @@
   <img alt="c++" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua">
 </p>
 
-![제목 없음](https://github.com/lavi02/lavi02/assets/55977356/993aa183-d989-487f-88dc-f4bda163e3c9)
+![image](https://github.com/lavi02/lavi02/assets/55977356/414de59f-ffcf-487e-be94-9556b97c27a8)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavi02&show_icons=true&theme=tokyonight)
 <p align="center">
