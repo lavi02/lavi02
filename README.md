@@ -5,7 +5,8 @@
 </p>
 
 - :globe_with_meridians: Korean · English
-- :alarm_clock: 14:00 - 03:30 「[UTC+9](https://time.is/UTC+9)」
+- :alarm_clock: 10:00 - 01:30 「[UTC+9](https://time.is/UTC+9)」
+- [My Portfolio](https://toothsome-tibia-7b8.notion.site/7bb8c1f74d8c4df2bd12fafef13f9581)
 
 ### Languages & skills
 <p align="center">
