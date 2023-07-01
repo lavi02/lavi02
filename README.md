@@ -1,19 +1,21 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Get+Hydrated%2C+Get+the+Sense.)](https://git.io/typing-svg)
+- :globe_with_meridians: Korean · English
+- :alarm_clock: 10:00 - 01:30 「[UTC+9](https://time.is/UTC+9)」
+- [My Portfolio](https://toothsome-tibia-7b8.notion.site/7bb8c1f74d8c4df2bd12fafef13f9581)
+
+---
+<p></p>
 <div align="center">
   <img src=https://github.com/lavi02/lavi02/blob/main/Reminiscence%20%E2%99%A1.gif>
 </div>
 
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/lavi02-blueviolet?style=flat&logo=appveyor&logoColor=lightgray"/>
   <a href="mailto:zerosec7@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://open.spotify.com/user/46p7smzj2rfj4k1069o16gvkb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ed760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='26'>
 </p>
-
-- :globe_with_meridians: Korean · English
-- :alarm_clock: 10:00 - 01:30 「[UTC+9](https://time.is/UTC+9)」
-- [My Portfolio](https://toothsome-tibia-7b8.notion.site/7bb8c1f74d8c4df2bd12fafef13f9581)
 
 ---
 
