@@ -32,10 +32,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lavi02&count_private=true&show_icons=true&rank_icon=percentile&card_width=300"  alt=""/>
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavi02&layout=compact&langs_count=8&card_width=440"  alt=""/>
 </a>
-
+<p></p>
 <a href="https://github.com/lavi02/OryangBot-Cafeteria-Checker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lavi02&repo=OryangBot-Cafeteria-Checker&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
