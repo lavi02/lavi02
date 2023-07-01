@@ -1,6 +1,6 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Get+Hydrated%2C+Get+the+Sense.)](https://git.io/typing-svg)
 <div align="center">
-  <img src=https://github.com/lavi02/lavi02/assets/55977356/de520fdd-1dde-46a4-9db4-b4efc139b582>
+  <img src=https://github.com/lavi02/lavi02/blob/main/Reminiscence%20%E2%99%A1.gif>
 </div>
 
 
