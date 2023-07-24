@@ -1,6 +1,7 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Get+Hydrated%2C+No+PHP+in+Life)](https://git.io/typing-svg)
 - :globe_with_meridians: Korean · English
-- :alarm_clock: 10:00 - 01:30 「[UTC+9](https://time.is/UTC+9)」
+- :alarm_clock: 10:00 - 01:30「[UTC+9](https://time.is/UTC+9)」
+- [My PortFolio(Download CV)](https://github.com/lavi02/lavi02/files/12142885/Hoil_Jeong_-_Backend_Developer.1.pdf)
 
 ---
 <p></p>
