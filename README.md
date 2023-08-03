@@ -87,7 +87,7 @@
 > **2023.06~현재, 인공지능 기반 최적경로 및 배차 서비스 스타트업**
 > 
 - Zone Optimization System(권역 최적화 솔루션) 백엔드 개발. 경유지 고정 기능 개발(Go)
-- Route Optimization System(경로/배차 최적화 솔루션) 처리속도 평균 97%, 정확도 평균 81.2% 개선 - 최단경로 최적해 알고리즘 재설계 및 구현(Go)
+- 최단경로 최적해 알고리즘 재설계 및 구현(Go)
 - FileSystem + Redis/PSQL → AWS S3 / AWS ELK Migration(Go)
 - gitlab + docker + AWS ECR 기반 docker image 자동 배포 CI/CD 파이프라인 구축 및 webhooks 기반 자동 버전관리 & Docker-compose Blue-Green 무중단 적용
 - AWS CloudWatch, Webhooks 기반 Server Monitoring Solution & Notification System 개발(Python)
