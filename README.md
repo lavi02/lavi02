@@ -1,7 +1,6 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Get+Hydrated%2C+No+PHP+in+Life)](https://git.io/typing-svg)
 - :globe_with_meridians: Korean · English
 - :alarm_clock: 10:00 - 01:30「[UTC+9](https://time.is/UTC+9)」
-- [My Portfolio](https://hoil-jeong.notion.site/7bb8c1f74d8c4df2bd12fafef13f9581)
 
 ---
 <p></p>
