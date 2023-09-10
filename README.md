@@ -1,4 +1,4 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Get+Hydrated%2C+No+PHP+in+Life)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Get+Hydrated)](https://git.io/typing-svg)
 - :globe_with_meridians: Korean · English
 - :alarm_clock: 10:00 - 01:30「[UTC+9](https://time.is/UTC+9)」
 
