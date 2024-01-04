@@ -18,11 +18,6 @@
 
 ---
 - Backend Developer / Software Engineer
-- 대전대신고등학교 졸업
-- 한양대학교 ERICA캠퍼스 컴퓨터학부 소프트웨어전공 학부생 2학년
-
-✉️ hoil.jeong@fleetune.com   
-🌐 [https://velog.io/@lavi02](https://velog.io/@lavi02)
 
 ### Languages & skills
 <p align="center">
