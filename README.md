@@ -17,7 +17,10 @@
 </p>
 
 ---
-- Backend Developer / Software Engineer
+- 2-year experience FullStack Engineer
+- Frontend(React.js, Next.js) + Backend(Python, Go, Typescript) + DevOps(Docker, Kubernetes, Apache Kafka, SnowFlake)
+- Interested in NP Problem / Route Optimization / Machine Learning.
+- Like to play games(Osu!, Chess.com, League Of Legends)
 
 ### Languages & skills
 <p align="center">
