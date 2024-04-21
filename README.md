@@ -1,6 +1,12 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Get+Hydrated)](https://git.io/typing-svg)
 - :globe_with_meridians: Korean · English
 - :alarm_clock: 10:00 - 01:30「[UTC+9](https://time.is/UTC+9)」
+- 2-year experience FullStack Engineer
+- **11th Software Maestro** KR / **4th Google MLB** Alumni
+- AWS DevOps Engineer Professional | Microsoft AI Skills Challenges for MVPs and Communities | Coursera Deep Learning Specialization
+- Frontend(React.js, Next.js) + Backend(Python, Go, Typescript) + DevOps(Docker, Kubernetes, Apache Kafka, SnowFlake)
+- Interested in NP Problem / Route Optimization / Machine Learning.
+- Like to play games(Osu!, Chess.com, League Of Legends)
 
 ---
 <p></p>
@@ -17,22 +23,15 @@
 </p>
 
 ---
-- 2-year experience FullStack Engineer
-- **11th Software Maestro** KR / **4th Google MLB** Alumni
-- AWS DevOps Engineer Professional | Microsoft AI Skills Challenges for MVPs and Communities | Coursera Deep Learning Specialization
-- Frontend(React.js, Next.js) + Backend(Python, Go, Typescript) + DevOps(Docker, Kubernetes, Apache Kafka, SnowFlake)
-- Interested in NP Problem / Route Optimization / Machine Learning.
-- Like to play games(Osu!, Chess.com, League Of Legends)
 
 ### Languages & skills
 <p align="center">
   <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-1a0dab?style=flat-square&logo=typescript">
   <br/>
-  <img alt="vuejs" src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=Rust">
+  <img alt="rust" src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=Rust">
   <img alt="c++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
-  <img alt="c++" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua">
+  <img alt="lua" src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua">
 </p>
 
 
