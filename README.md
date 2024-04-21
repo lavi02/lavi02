@@ -18,7 +18,8 @@
 
 ---
 - 2-year experience FullStack Engineer
-- 11th Software Maestro KR / 4th Google MLB Alumni
+- **11th Software Maestro** KR / **4th Google MLB** Alumni
+- AWS DevOps Engineer Professional | Microsoft AI Skills Challenges for MVPs and Communities | Coursera Deep Learning Specialization
 - Frontend(React.js, Next.js) + Backend(Python, Go, Typescript) + DevOps(Docker, Kubernetes, Apache Kafka, SnowFlake)
 - Interested in NP Problem / Route Optimization / Machine Learning.
 - Like to play games(Osu!, Chess.com, League Of Legends)
