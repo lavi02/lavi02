@@ -2,11 +2,7 @@
 - :globe_with_meridians: Korean · English
 - :alarm_clock: 10:00 - 01:30「[UTC+9](https://time.is/UTC+9)」
 - 2-year experience FullStack Engineer
-- **11th Software Maestro** KR / **4th Google MLB** Alumni
-- AWS DevOps Engineer Professional | Microsoft AI Skills Challenges for MVPs and Communities | Coursera Deep Learning Specialization
 - Frontend(React.js, Next.js) + Backend(Python, Go, Typescript) + DevOps(Docker, Kubernetes, Apache Kafka, SnowFlake)
-- Interested in NP Problem / Route Optimization / Machine Learning.
-- Like to play games(Osu!, Chess.com, League Of Legends)
 
 ---
 <p></p>
